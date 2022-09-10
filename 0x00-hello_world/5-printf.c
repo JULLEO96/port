@@ -1,14 +1,15 @@
 #include <stdio.h>
+/*A program that output with the printf method*/
 
 /**
- * Write a C program that prints exactly:
+ * Main - main function
  *
- * with proper grammar, but the outcome is a piece of art,
+ * Description - output "with proper grammar, but the outcome is a piece of art," with printf
  *
- * followed by a new line.
+ * return - (0) for succes
  */
 int main(void)
 {
   printf("with proper grammar, but the outcome is a piece of art,\n");
-  return(0);
+  return (0);
 }
