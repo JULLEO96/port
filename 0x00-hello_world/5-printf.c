@@ -4,9 +4,7 @@
 /**
  * Main - main function
  *
- * Description - output "with proper grammar, but the outcome is a piece of art," with printf
- *
- * return - (0) for succes
+ * return - Always 0 (success)
  */
 int main(void)
 {
