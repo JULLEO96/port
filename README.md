@@ -1,1 +1,1 @@
-first dive into C language
+0x01. C - Variables, if, else, while
